@@ -1,2 +1,2 @@
 # Fuyao-Release
-information of Whirlwind releasing
+information of Fuyao releasing
